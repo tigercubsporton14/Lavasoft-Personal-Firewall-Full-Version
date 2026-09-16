@@ -242,4 +242,4 @@ This repository serves as the official landing page for Lavasoft Personal Firewa
 **Get the most recent version of Lavasoft Personal Firewall today!**
 
 ---
-**Last updated:** 2026-09-16 02:32:50 UTC
+**Last updated:** 2026-09-16 08:06:51 UTC
